@@ -5,7 +5,7 @@ int main()
 {
     string c;
     cin>>c;
-    if(c=="Arsalan is not Gandu"){
+    if(c=="Arsalan is not maHA Gandu"){
         cout<<"Yes";
     }
     cout<<"Moto is the greatest";
